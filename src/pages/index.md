@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Connecting Corporate Citizens And Communities
-image: /img/CorpCare Logo.png
+image: /img/Kingston.jpeg
 heading: Great coffee with a conscience
 subheading: 'A Corporate Jamaica that serves all Jamaicans.  '
 mainpitch:
