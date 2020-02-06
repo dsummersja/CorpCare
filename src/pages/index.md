@@ -5,7 +5,7 @@ image: /img/Kingston.jpeg
 heading: Great coffee with a conscience
 subheading: 'A Corporate Jamaica that serves all Jamaicans.  '
 mainpitch:
-  title: About CorpCare
+  title: About Us
   description: >-
     CorpCare is a Corporate Social Responsibility (CSR) strategy and execution
     firm for businesses and philanthropists seeking to give and do more for
