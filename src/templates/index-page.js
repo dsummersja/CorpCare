@@ -3,6 +3,9 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
+import profits2 from '../img/profits2.svg'
+import planet from '../img/planet.svg'
+import people from '../img/people.svg'
 
 export const IndexPageTemplate = ({
   image,
@@ -82,8 +85,24 @@ export const IndexPageTemplate = ({
                     <p>The CorpCare CSR model follows the key tenants of a Triple Bottom Line (TBL or 3BL) business or accounting framework. In fact, the TBL can be used to better understand a company’s commitment to CSR activities. </p>
                   </div>
                 </div>
-                <h1>The 3 P's of the TBL</h1>
-                <Features gridItems={intro.blurbs} />
+                <h2>The 3 P's of the TBL</h2>
+                <div className="columns">
+                  <div className="column">
+                    <img src={profits2} alt="Profits" style={{ height: '15rem' }}  />
+                    <h4>Profits</h4>
+                    <p>A traditional measure of success</p> 
+                  </div>
+                  <div className="column">
+                    <img src={people} alt="People" style={{ height: '15rem' }} />
+                    <h4>People</h4>
+                    <p>A socially-focused measure of success</p>  
+                  </div>
+                  <div className="column">
+                    <img src={planet} alt="The Planet" style={{ height: '15rem' }} />
+                    <h4>The Planet</h4> 
+                    <p>A measure of success that analyses environmental and community impact overtime.</p>
+                  </div>
+                </div>
                 <h1>How Does CSR benefit businesses?</h1>
                 <ul>
                   <li>Increased brand recognition</li>
@@ -102,6 +121,10 @@ export const IndexPageTemplate = ({
                 <p>We’re creating a future of work founded on the power of business as a transformative tool in creating equity, social justice and increasing economic and political development. <a href="/contact">Contact</a> the CorpCare team to understand how your organization can become a leader in the world of social business. 
 </p>
                 <h1>Our Partners</h1>
+                <div className="columns">
+                  <div className="column">Malcolm Mavericks *insert logo*</div>
+                  <div className="column">Khord Collaborative *insert logo*</div>
+                </div>
               </div>
             </div>
           </div>
