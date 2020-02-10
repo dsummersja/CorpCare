@@ -7,13 +7,15 @@ subheading: 'A Corporate Jamaica that serves all Jamaicans.  '
 mainpitch:
   title: About Us
   description: >-
-    CorpCare is a Corporate Social Responsibility (CSR) strategy and execution
-    firm for businesses and philanthropists seeking to give and do more for
-    their communities. We bridge the gap between available resources (financial
-    or in-kind) and community needs. For small and medium-sized enterprises, we
-    serve as an outsourced CSR department. For large-scale enterprises, we
-    consult on how to structure CSR spending and activities to ensure every
-    dollar is as impactful as possible.
+    CorpCare is dedicated to assessing, diagnosing & supporting the
+    implementation of CSR strategies for measured impact in the Jamaican private
+    sector.
+
+
+    We do this by providing strategic planning and project management expertise
+    in the field of CSR. We are also equipped to manage PR and branding
+    associated with CSR, as well as, developing technologies such as payment
+    portals that support the allocation of CSR funding within organizations.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
