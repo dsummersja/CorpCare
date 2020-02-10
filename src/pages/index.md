@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Connecting Corporate Citizens And Communities
 image: /img/Kingston.jpeg
-heading: Our team is here for your team.
+heading: How we define CSR
 subheading: 'A Corporate Jamaica that serves all Jamaicans.  '
 mainpitch:
   title: About Us
@@ -17,10 +17,10 @@ mainpitch:
     associated with CSR, as well as, developing technologies such as payment
     portals that support the allocation of CSR funding within organizations.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  At CorpCare, we believe that Corporate Social Responsibility (CSR) is a
+  primary characteristic of strong Corporate Citizenship. CSR requires that
+  companies consider not just the profits they earn, but the impact they have on
+  their communities, as a part of their business priorities.
 intro:
   blurbs: []
   heading: What we offer
