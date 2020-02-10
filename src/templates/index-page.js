@@ -79,14 +79,29 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3>
                     <p>{description}</p>
+                    <p>The CorpCare CSR model follows the key tenants of a Triple Bottom Line (TBL or 3BL) business or accounting framework. In fact, the TBL can be used to better understand a company’s commitment to CSR activities. </p>
                   </div>
                 </div>
+                <h1>The 3 P's of the TBL</h1>
                 <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-
-                  </div>
-                </div>
+                <h1>How Does CSR benefit businesses?</h1>
+                <ul>
+                  <li>Increased brand recognition</li>
+                  <li>Positive brand association</li>
+                  <li>Greater employee satisfaction and lower turnover rates </li>
+                  <li>More committed staff </li>
+                  <li>Attracting millennial and highly educated talent </li>
+                  <li>The access to testing innovative solutions to real social problems which may in the long run become significant business opportunities </li>
+                  <li>A more efficient and reliable supply chain based on positive relationships</li>
+                </ul>
+                <h1>Why should you work with us?</h1>
+                <p>CorpCare provides companies with high-quality strategic planning and project management services akin to any consulting firm but every dollar spent with CorpCare is an investment in Jamaica’s social, economic and political development. We align our client company’s goals with the appropriate global development goals. We focus on Public Private Partnerships (PPPs) and low-cost high-impact poverty alleviation technologies to ensure every stakeholder has access to the best possible resources and the ability to use them in achieving collective goals. Our model is founded on human-centered design principles and the radical notion that triple-bottom-line businesses (profits, people and the planet) are the most successful.
+</p>
+                <h1>Our Clients</h1>
+                <p>At CorpCare, we work to understand our clients’ specific challenges and strategize the most effective solutions. Our clients vary in industry, services and product offerings but unite under a common understanding that Corporate Social Responsibility (CSR) is a cornerstone of doing business effectively in the 21st century. </p>
+                <p>We’re creating a future of work founded on the power of business as a transformative tool in creating equity, social justice and increasing economic and political development. <a href="/contact">Contact</a> the CorpCare team to understand how your organization can become a leader in the world of social business. 
+</p>
+                <h1>Our Partners</h1>
               </div>
             </div>
           </div>
