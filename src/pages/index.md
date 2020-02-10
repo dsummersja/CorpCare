@@ -29,7 +29,7 @@ intro:
       text: People - a socially-focused measure of success.
     - image: /img/planet.svg
       text: >-
-        The Planet - a measure of success which analyses environmental and
+        The Planet - a measure of success that analyses environmental and
         community impact overtime.
   heading: What we offer
   description: >
