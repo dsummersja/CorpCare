@@ -22,7 +22,15 @@ description: >-
   companies consider not just the profits they earn, but the impact they have on
   their communities, as a part of their business priorities.
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/profits2.svg
+      text: Profits - (profitability) a traditional measure of success.
+    - image: /img/people.svg
+      text: People - a socially-focused measure of success.
+    - image: /img/planet.svg
+      text: >-
+        The Planet - a measure of success which analyses environmental and
+        community impact overtime.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
