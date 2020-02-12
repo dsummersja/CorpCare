@@ -55,9 +55,9 @@ export const IndexPageTemplate = ({
             padding: '0.25em',
           }}
         >
-          {title}
+          A CORPORATE JAMAICA THAT SERVES ALL JAMAICANS
         </h1>
-        <h3
+        {/* <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
@@ -69,7 +69,7 @@ export const IndexPageTemplate = ({
           }}
         >
           {subheading}
-        </h3>
+        </h3> */}
       </div>
     </div>
     <section className="section section--gradient">
@@ -226,6 +226,7 @@ export const IndexPageTemplate = ({
                 <p>The work we do at CorpCare is founded on strong partnerships and the belief that when we work together, we can deliver the most innovative, creative and impactful services. That’s why we have teamed up with Khord.Co a software and product development company and Malcolm Mavericks a communications and branding firm to deliver the best results possible for our clients. Through these partnerships we’re fully equipped to deliver: High level CSR strategies, Project Management expertise, PR and Communications tools to increase brand equity and positive brand association, and Tech Solutions for system management, monitoring and evaluation. </p>
                 <p>More recently, we have joined forces with <a href="https://www.jamaicansforjustice.org/">Jamaican’s for Justice</a>, a non-profit organization dedicated to eradicating injustice through legal services and Human Rights education, to help private sector organisations in Jamaica better understand their role in creating safe and discrimination-free work environments. We know that our work is dependent on the work of others, that our communities need us to focus less on competition and more on connection in order to create a more just and equitable world.</p>
               </div>
+              <a name="contact"></a>
               <Contact />
             </div>
           </div>
