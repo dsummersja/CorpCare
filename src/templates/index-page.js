@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Features from '../components/Features'
+import Contact from '../components/Contact'
 import profits2 from '../img/profits2.svg'
 import planet from '../img/planet.svg'
 import people from '../img/people.svg'
@@ -84,6 +84,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column">
+                  <a name="who"></a>
                     <h3 className="has-text-weight-semibold is-size-2">
                       Who We Are
                     </h3>
@@ -206,18 +207,24 @@ export const IndexPageTemplate = ({
                 <p>At CorpCare, we work to understand our clients’ specific challenges and strategize the most effective solutions. Our clients vary in industry, services and product offerings but unite under a common understanding that Corporate Social Responsibility (CSR) is a cornerstone of doing business effectively in the 21st century. </p>
                 <p>We’re creating a future of work founded on the power of business as a transformative tool in creating equity, social justice and increasing economic and political development. <a href="/contact">Contact</a> the CorpCare team to understand how your organization can become a leader in the world of social business. 
 </p>
+                <a name="partners"></a>
                 <h1>Our Partners</h1>
                 <div className="columns">
                   <div className="column is-centered">
+                    <a href="https://malcolmmavericks.com">
                     <img src={mm} style={{ height: '10rem' }}></img>
+                    </a>
                     </div>
                   <div className="column is-centered">
+                    <a href="https://khord.co">
                     <img src={khord} className="is-centered" style={{ height: '10rem', width: '20rem'}}></img>
+                    </a>
                   </div>
                 </div>
                 <p>The work we do at CorpCare is founded on strong partnerships and the belief that when we work together, we can deliver the most innovative, creative and impactful services. That’s why we have teamed up with Khord.Co a software and product development company and Malcolm Mavericks a communications and branding firm to deliver the best results possible for our clients. Through these partnerships we’re fully equipped to deliver: High level CSR strategies, Project Management expertise, PR and Communications tools to increase brand equity and positive brand association, and Tech Solutions for system management, monitoring and evaluation. </p>
-                <p>More recently, we have joined forces with Jamaican’s for Justice, a non-profit organization dedicated to eradicating injustice through legal services and Human Rights education, to help private sector organisations in Jamaica better understand their role in creating safe and discrimination-free work environments. We know that our work is dependent on the work of others, that our communities need us to focus less on competition and more on connection in order to create a more just and equitable world.</p>
+                <p>More recently, we have joined forces with <a href="https://www.jamaicansforjustice.org/">Jamaican’s for Justice</a>, a non-profit organization dedicated to eradicating injustice through legal services and Human Rights education, to help private sector organisations in Jamaica better understand their role in creating safe and discrimination-free work environments. We know that our work is dependent on the work of others, that our communities need us to focus less on competition and more on connection in order to create a more just and equitable world.</p>
               </div>
+              <Contact />
             </div>
           </div>
         </div>
