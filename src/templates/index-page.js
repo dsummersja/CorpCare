@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Contact from '../components/Contact'
+import Clients from '../components/Clients'
 import profits2 from '../img/profits2.svg'
 import planet from '../img/planet.svg'
 import people from '../img/people.svg'
@@ -82,7 +83,7 @@ export const IndexPageTemplate = ({
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
                 </div>
-                <div className="columns">
+                <div className="columns horizontal-vibes">
                   <div className="column">
                   <a name="who"></a>
                     <h3 className="has-text-weight-semibold is-size-2">
@@ -205,6 +206,7 @@ export const IndexPageTemplate = ({
 </p>
                 <h1>Our Clients</h1>
                 <p>At CorpCare, we work to understand our clients’ specific challenges and strategize the most effective solutions. Our clients vary in industry, services and product offerings but unite under a common understanding that Corporate Social Responsibility (CSR) is a cornerstone of doing business effectively in the 21st century. </p>
+                <Clients />
                 <p>We’re creating a future of work founded on the power of business as a transformative tool in creating equity, social justice and increasing economic and political development. <a href="/contact">Contact</a> the CorpCare team to understand how your organization can become a leader in the world of social business. 
 </p>
                 <a name="partners"></a>

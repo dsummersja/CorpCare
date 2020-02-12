@@ -37,7 +37,7 @@ export default class Contact extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>Contact Us</h1>
               <form
                 name="contact"
                 method="post"
