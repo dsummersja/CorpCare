@@ -76,7 +76,7 @@ module.exports = {
       resolve: "gatsby-plugin-web-font-loader",
       options: {
         custom: {
-          families: ["Evolve Sans Bold, Evolve Sans Light, Nexa Bold"],
+          families: ["MADE Evolve Sans Bold, MADE Evolve Sans Light, Nexa Bold"],
           urls: ["/fonts/fonts.css"],
         },
       },
