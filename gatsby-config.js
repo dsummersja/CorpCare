@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'CorpCare',
     description:
-      'CorpCare is a Corporate Social Responsibility (CSR) strategy and execution firm for businesses and philanthropists seeking to give and do more for their communities.',
+      'CorpCare is dedicated to assessing, diagnosing & supporting the implementation of CSR strategies for measured impact in the Jamaican private sector.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

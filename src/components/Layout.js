@@ -12,8 +12,8 @@ const TemplateWrapper = ({ children }) => {
     <div>
       <Helmet>
         <html lang="en" />
-        <title>{title}</title>
-        <meta name="description" content={description} />
+        <title>CorpCare</title>
+        <meta name="description" content='CorpCare is dedicated to assessing, diagnosing & supporting the implementation of CSR strategies for measured impact in the Jamaican private sector.' />
 
         <link
           rel="apple-touch-icon"
@@ -45,7 +45,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/og-image.jpg`}
+          content={`${withPrefix('/')}img/logo.png`}
         />
       </Helmet>
       <Navbar />
