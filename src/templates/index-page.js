@@ -1,6 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faArrowUp } from '@fortawesome/free-solid-svg-icons'
 import Layout from '../components/Layout'
 import Contact from '../components/Contact'
 import Clients from '../components/Clients'
@@ -83,13 +85,14 @@ export const IndexPageTemplate = ({
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
                 </div>
-                <div className="columns horizontal-vibes">
+                <div className="columns">
                   <div className="column">
                   <a name="who"></a>
                     <h3 className="has-text-weight-semibold is-size-2">
                       Who We Are
                     </h3>
                     <p>The CorpCare team is made up of highly professional and qualified young people dedicated to equipping private sector organisations with the tools to thrive and create meaningful social impact. As the workforce of the future, we work to build companies of the future, all while putting people first. </p>
+                    <div className="">
                     <div className="box">
                       <article className="media">
                         <div className="media-left">
@@ -162,6 +165,7 @@ export const IndexPageTemplate = ({
                         </div>
                       </article>
                     </div>
+                    </div>
                   </div>
                 </div>
                 <div className="columns">
@@ -228,6 +232,7 @@ export const IndexPageTemplate = ({
               </div>
               <a name="contact"></a>
               <Contact />
+              <a href="#top" class="button is-black back-to-top"><FontAwesomeIcon icon={faArrowUp} /></a>
             </div>
           </div>
         </div>
