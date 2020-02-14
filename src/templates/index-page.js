@@ -278,7 +278,7 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
               </div>
               <a name="contact"></a>
               <Contact />
-              <a href="#top" class="button is-black back-to-top">
+              <a href="#top" className="button is-black back-to-top">
                 <FontAwesomeIcon icon={faArrowUp} />
               </a>
             </div>
