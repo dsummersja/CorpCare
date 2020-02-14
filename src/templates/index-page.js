@@ -14,7 +14,7 @@ import khord from "../img/khord.svg";
 import ali from "../img/ali.jpg";
 import jomarie from "../img/jomarie.jpg";
 import kemesha from "../img/kemesha.jpg";
-import dominic from "../img/dominic2.png";
+import dominic from "../img/dominic.jpg";
 
 export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch, description, intro }) => (
   <div>
@@ -192,12 +192,12 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                   <div className="column">
                     <img src={profits2} alt="Profits" style={{ height: "12rem" }} />
                     <h4>Profits</h4>
-                    <p>A traditional measure of success</p>
+                    <p>A traditional measure of success.</p>
                   </div>
                   <div className="column">
                     <img src={people} alt="People" style={{ height: "12rem" }} />
                     <h4>People</h4>
-                    <p>A socially-focused measure of success</p>
+                    <p>A socially-focused measure of success.</p>
                   </div>
                   <div className="column">
                     <img src={planet} alt="The Planet" style={{ height: "12rem" }} />

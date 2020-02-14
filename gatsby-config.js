@@ -79,6 +79,10 @@ module.exports = {
           families: ["MADE Evolve Sans Bold, MADE Evolve Sans Light, Nexa Bold"],
           urls: ["/fonts/fonts.css"],
         },
+        custom: {
+          families: ["Nexa Bold"],
+          urls: ["/fonts/fonts.css"],
+        },
       },
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
