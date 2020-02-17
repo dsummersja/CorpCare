@@ -176,6 +176,7 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                     </div>
                   </div>
                 </div>
+                <a name="what"></a>
                 <div className="columns">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
@@ -229,6 +230,7 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                   principles and the radical notion that triple-bottom-line businesses (profits, people and the planet)
                   are the most successful.
                 </p>
+                <a name="clients"></a>
                 <h1>Our Clients</h1>
                 <p>
                   At CorpCare, we work to understand our clients’ specific challenges and strategize the most effective

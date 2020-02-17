@@ -64,10 +64,10 @@ const Navbar = class extends React.Component {
                 Who We Are
               </Link>
               <Link className="navbar-item" to="#what">
-                What We Do
+                What is CSR
               </Link>
-              <Link className="navbar-item" to="#how">
-                How We Do It
+              <Link className="navbar-item" to="#clients">
+                Our Clients
               </Link>
               <Link className="navbar-item" to="#partners">
                 Our Partners
