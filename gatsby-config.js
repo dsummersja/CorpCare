@@ -86,7 +86,7 @@ module.exports = {
           families: [
             'MADE Evolve Sans Bold, MADE Evolve Sans Light, Nexa Bold',
           ],
-          urls: ['fonts/fonts.css'],
+          urls: ['fonts/fonts.sass'],
         },
       },
     }, // must be after other CSS plugins
