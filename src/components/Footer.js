@@ -6,11 +6,7 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-          <img
-            src={whiteLogo}
-            alt="CorpCare"
-            style={{ width: '24em' }}
-          />
+          <img src={whiteLogo} alt="CorpCare" style={{ width: '24em' }} />
         </div>
       </footer>
     )

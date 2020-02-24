@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import Slider from "react-slick";
+import React, { Component } from 'react'
+import Slider from 'react-slick'
 import advantage from '../img/advantage.png'
 import bcic from '../img/bcic.png'
 import gustazos from '../img/gustazos.png'
@@ -15,7 +15,7 @@ export default class Responsive extends Component {
       infinite: true,
       autoplay: true,
       autoplaySpeed: 4000,
-      cssEase: "linear",
+      cssEase: 'linear',
       speed: 4000,
       slidesToShow: 4,
       slidesToScroll: 1,
@@ -27,52 +27,52 @@ export default class Responsive extends Component {
             slidesToShow: 3,
             slidesToScroll: 1,
             infinite: true,
-            dots: true
-          }
+            dots: true,
+          },
         },
         {
           breakpoint: 600,
           settings: {
             slidesToShow: 2,
             slidesToScroll: 1,
-            initialSlide: 2
-          }
+            initialSlide: 2,
+          },
         },
         {
           breakpoint: 480,
           settings: {
             slidesToShow: 1,
-            slidesToScroll: 1
-          }
-        }
-      ]
-    };
+            slidesToScroll: 1,
+          },
+        },
+      ],
+    }
     return (
       <div>
         <Slider {...settings}>
           <div>
-            <img src={gustazos} alt="Gustazo's Logo"/>
+            <img src={gustazos} alt="Gustazo's Logo" />
           </div>
           <div>
             <img src={icd} alt="ICD's Logo" />
           </div>
           <div>
-             <img src={myf} alt="The MultiCare Youth Foundation's Logo" />
+            <img src={myf} alt="The MultiCare Youth Foundation's Logo" />
           </div>
           <div>
             <img src={wihcon} alt="WIHCON's Logo" />
           </div>
           <div>
-          <img src={wihconpsl} alt="Wihcon Property Service's Logo" />
+            <img src={wihconpsl} alt="Wihcon Property Service's Logo" />
           </div>
           <div>
-          <img src={bcic} alt="BCIC's Logo" />
+            <img src={bcic} alt="BCIC's Logo" />
           </div>
           <div>
-          <img src={advantage} alt="Advantage Communication's Logo" />
+            <img src={advantage} alt="Advantage Communication's Logo" />
           </div>
         </Slider>
       </div>
-    );
+    )
   }
 }

@@ -80,11 +80,13 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-web-font-loader",
+      resolve: 'gatsby-plugin-web-font-loader',
       options: {
         custom: {
-          families: ["MADE Evolve Sans Bold, MADE Evolve Sans Light, Nexa Bold"],
-          urls: ["fonts.css"],
+          families: [
+            'MADE Evolve Sans Bold, MADE Evolve Sans Light, Nexa Bold',
+          ],
+          urls: ['fonts.css'],
         },
       },
     }, // must be after other CSS plugins
