@@ -1,37 +1,37 @@
 
 @font-face {
   font-family: 'Evolve Sans Bold';
-  src: url('Evolve Sans Bold.eot');
-  src: url('Evolve Sans Bold.eot?#iefix') format('embedded-opentype');
-  src: url('Evolve Sans Bold.woff2') format('woff2');
-  src: url('Evolve Sans Bold.woff') format('woff');
-  src: url('Evolve Sans Bold.ttf') format('truetype');
-  src: url('Evolve Sans Bold.svg#made_evolve_sansbold') format('svg');
+  src: url('Evolve Sans Bold.eot'),
+  url('Evolve Sans Bold.eot?#iefix') format('embedded-opentype'),
+  url('Evolve Sans Bold.woff2') format('woff2'),
+  url('Evolve Sans Bold.woff') format('woff'),
+  url('Evolve Sans Bold.ttf') format('truetype'),
+  url('Evolve Sans Bold.svg#made_evolve_sansbold') format('svg');
   font-weight: normal;
   font-style: normal; 
 }
 
 @font-face {
   font-family: 'Evolve Sans Light';
-  src: url('Evolve Sans Light.eot');
-  src: url('Evolve Sans Light.eot?#iefix') format('embedded-opentype');
-  src: url('Evolve Sans Light.woff2') format('woff2');
-  src: url('Evolve Sans Light.woff') format('woff');
-  src: url('Evolve Sans Light.ttf') format('truetype');
-  src: url('Evolve Sans Light.svg#made_evolve_sanslight') format('svg');
+  src: url('Evolve Sans Light.eot'),
+  url('Evolve Sans Light.eot?#iefix') format('embedded-opentype'),
+  url('Evolve Sans Light.woff2') format('woff2'),
+  url('Evolve Sans Light.woff') format('woff'),
+  url('Evolve Sans Light.ttf') format('truetype'),
+  url('Evolve Sans Light.svg#made_evolve_sanslight') format('svg');
   font-weight: normal;
   font-style: normal; 
 }
 
 @font-face {
   font-family: "Nexa Bold";
-  src: url("Nexa Bold.otf");
-  src: url('Nexa Bold.eot');
-  src: url('Nexa Bold.eot?#iefix') format('embedded-opentype');
-  src: url('Nexa Bold.woff2') format('woff2');
-  src: url('Nexa Bold.woff') format('woff');
-  src: url('Nexa Bold.ttf') format('truetype');
-  src: url('Nexa Bold.svg#nexa_boldregular') format('svg');
+  src: url("Nexa Bold.otf"),
+  url('Nexa Bold.eot'),
+  url('Nexa Bold.eot?#iefix') format('embedded-opentype'),
+  url('Nexa Bold.woff2') format('woff2'),
+  url('Nexa Bold.woff') format('woff'),
+  url('Nexa Bold.ttf') format('truetype'),
+  url('Nexa Bold.svg#nexa_boldregular') format('svg');
   font-weight: normal;
   font-style: normal; 
 }
