@@ -34,7 +34,6 @@ export default class Contact extends React.Component {
 
   render() {
     return (
-      <section className="section">
         <div className="container">
           <div className="content">
             <h3 className="has-text-weight-semibold is-size-2 space">Contact Us</h3>
@@ -120,7 +119,6 @@ export default class Contact extends React.Component {
             </div>
           </div>
         </div>
-      </section>
     )
   }
 }

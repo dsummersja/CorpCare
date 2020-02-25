@@ -10,7 +10,7 @@ export default class Who extends Component {
       <div>
         <div>
           <button
-            className="button is-text"
+            className="button"
             onClick={() => this.setState({ active: !this.state.active })}
           >
             Read More
@@ -22,11 +22,11 @@ export default class Who extends Component {
             ></div>
             <div className="modal-content">
               <div className="modal-card">
-                <header className="modal-card-head">
-                  <figure class="image is-128x128">
-                    <img src={this.props.image} alt="Image" />
+                <header className="modal-card-head columns">
+                  <figure className="image is-128x128 column is-narrow">
+                    <img className="is-rounded" src={this.props.image} alt="Image" />
                   </figure>
-                  <h1 className="modal-card-title">{this.props.title}</h1>
+                  <h1 className="modal-card-title column">{this.props.title}</h1>
                 </header>
                 <section className="modal-card-body">{this.props.body}</section>
               </div>
