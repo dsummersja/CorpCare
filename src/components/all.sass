@@ -30,6 +30,10 @@ p, li
 p
   margin: 1rem 0rem!important 
 
+.space
+  margin-top: 1.5rem
+
+
 .columns
   margin-top: 5%
   margin-bottom: 5%
@@ -38,8 +42,8 @@ p
   box-shadow:none !important
 
 .box
-  margin-bottom: 1.5rem!important
-  margin-top: 1.5rem!important
+  margin-bottom: 1.2rem!important
+  margin-top: 1.2rem!important
   padding: 1.25rem 2.5rem!important
 
 
@@ -149,27 +153,28 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033;
+  background-color: #d6400033
 .blog-list-item header
-  display: flex;
-  margin-bottom: 1em;
+  display: flex
+  margin-bottom: 1em
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  flex-basis: 35%
+  margin: 0 1.5em 0 0
 
 
 @import "~bulma"
 
 
+
 // responsiveness
 +tablet-only
   .blog-list-item .featured-thumbnail
-    flex-basis: 50%;
+    flex-basis: 50%
 
 +mobile
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
-    text-align: center;
-    max-width: 70%;
-    margin: 0 0 1em;
+    text-align: center
+    max-width: 70%
+    margin: 0 0 1em

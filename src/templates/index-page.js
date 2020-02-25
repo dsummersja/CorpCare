@@ -6,6 +6,7 @@ import { faArrowUp } from '@fortawesome/free-solid-svg-icons'
 import Layout from '../components/Layout'
 import Contact from '../components/Contact'
 import Clients from '../components/Clients'
+import Who from '../components/Who'
 import profits2 from '../img/profits2.svg'
 import planet from '../img/planet.svg'
 import people from '../img/people.svg'
@@ -15,6 +16,9 @@ import ali from '../img/ali.jpg'
 import jomarie from '../img/jomarie.jpg'
 import kemesha from '../img/kemesha.jpg'
 import dominic from '../img/dominic.jpg'
+import aki from '../img/aki.png'
+import leah from '../img/leah.png'
+import alex from '../img/alex.jpg'
 
 export const IndexPageTemplate = ({
   image,
@@ -74,7 +78,7 @@ export const IndexPageTemplate = ({
                 <div className="columns">
                   <div className="column">
                     <a name="who"></a>
-                    <h3 className="has-text-weight-semibold is-size-2">
+                    <h3 className="has-text-weight-semibold is-size-2 space">
                       Who We Are
                     </h3>
                     <p>
@@ -94,10 +98,22 @@ export const IndexPageTemplate = ({
                         </div>
                         <div className="column">
                           <div>
+                            <strong>Ali Matalon</strong>
                             <p>
-                              <strong>Ali Matalon</strong>
-                              <p>
-                                Our managing Director, Ali Matalon, holds a
+                              Our managing Director, Ali Matalon, holds a
+                              Masters in Public Administration from Columbia
+                              University with expertise in Urban and Social
+                              Policy. Her passion for human-centered design and
+                              policy was nurtured during her time at
+                              Northeastern University’s Social Enterprise
+                              Institute and later as an advocacy support
+                              specialist with the United Nations High-Level
+                              Panel on Women’s Economic Empowerment...
+                            </p>
+                            <Who
+                              image={ali}
+                              title="Ali Matalon"
+                              body="Our managing Director, Ali Matalon, holds a
                                 Masters in Public Administration from Columbia
                                 University with expertise in Urban and Social
                                 Policy. Her passion for human-centered design
@@ -115,9 +131,8 @@ export const IndexPageTemplate = ({
                                 to sensitize the corporate world in Jamaica. Ali
                                 believes that if private sector resources are
                                 allocated more effectively to social causes, all
-                                Jamaicans would benefit.{' '}
-                              </p>
-                            </p>
+                                Jamaicans would benefit."
+                            />
                           </div>
                         </div>
                       </div>
@@ -132,30 +147,16 @@ export const IndexPageTemplate = ({
                           </figure>
                         </div>
                         <div className="column">
-                          <p>
+                          <div>
                             <strong>Jomarie Malcolm</strong>
                             <p>
-                              Our Communications Director, Jomarie Malcolm, is
-                              both a branding expert with over 10 years of
-                              experience, as well as, an attorney-at-law.
-                              Jomarie serves as the Founder and CEO of Malcolm
-                              Mavericks, a brand strategy and PR firm dedicated
-                              to effective communication and authentic branding.
-                              Malcolm Mavericks has partnered with CorpCare to
-                              create a seamless experience in executing CSR
-                              activities and garnering the appropriate brand
-                              equity associated with those activities. Jomarie
-                              is a motivational speaker, branding educator and
-                              business development mentor. She is a member of
-                              the World Economic Forum Global Shapers Kingston
-                              Hub, President of Campion College Alumni
-                              Association and an active member of her community.
-                              Jomarie believes that CSR is a core business
-                              priority, in addition to being a tool through
-                              which companies communicate their values to staff
-                              and the wider communities they serve.{' '}
+                            Our Communications Director, Jomarie Malcolm, is both a branding expert with over 10 years of experience, as well as, an attorney-at-law. Jomarie serves as the Founder and CEO of Malcolm Mavericks, a brand strategy and PR firm dedicated to effective communication and authentic branding...
                             </p>
-                          </p>
+                            <Who
+                              title="Jomarie Malcolm"
+                              body="Our Communications Director, Jomarie Malcolm, is both a branding expert with over 10 years of experience, as well as, an attorney-at-law. Jomarie serves as the Founder and CEO of Malcolm Mavericks, a brand strategy and PR firm dedicated to effective communication and authentic branding. Malcolm Mavericks has partnered with CorpCare to create a seamless experience in executing CSR activities and garnering the appropriate brand equity associated with those activities. Jomarie is a motivational speaker, branding educator and business development mentor. She is a member of the World Economic Forum Global Shapers Kingston Hub, President of Campion College Alumni Association and an active member of her community. Jomarie believes that CSR is a core business priority, in addition to being a tool through which companies communicate their values to staff and the wider communities they serve. "
+                            />
+                          </div>
                         </div>
                       </div>
                       <div className="columns box">
@@ -169,10 +170,22 @@ export const IndexPageTemplate = ({
                           </figure>
                         </div>
                         <div className="column">
-                          <p>
+                          <div>
                             <strong>Kemesha Swaby</strong>
                             <p>
-                              Our Strategy and Monitoring and Evaluation Expert,
+                            Our Strategy and Monitoring and Evaluation Expert,
+                              Kemesha Swaby, holds a MA in Social Policy, with
+                              expertise in Comparative Analysis, Global Policy
+                              and Impact Assessment. Kemesha serves as a
+                              Lecturer of International Relations at the
+                              University of the West Indies, as a Co-Host on
+                              Nationwide Radio, a Consultant and Researcher to
+                              several private and public sector organisations in
+                              Jamaica and the Caribbean...
+                            </p>
+                            <Who
+                              title="Kemesha Swaby"
+                              body="Our Strategy and Monitoring and Evaluation Expert,
                               Kemesha Swaby, holds a MA in Social Policy, with
                               expertise in Comparative Analysis, Global Policy
                               and Impact Assessment. Kemesha serves as a
@@ -189,9 +202,9 @@ export const IndexPageTemplate = ({
                               Government of Jamaica’s Vision 2030. She has been
                               a leader on the development of our proprietary CSR
                               Diagnostic Tool for organisations around the world
-                              and is committed to evidenced-based giving.
-                            </p>
-                          </p>
+                              and is committed to evidenced-based giving."
+                            />
+                          </div>
                         </div>
                       </div>
                       <div className="columns box">
@@ -205,10 +218,21 @@ export const IndexPageTemplate = ({
                           </figure>
                         </div>
                         <div className="column">
-                          <p>
+                          <div>
                             <strong>Dominic Summers</strong>
                             <p>
                               Our Technology and Service Design Specialist,
+                              Dominic Summers, is a software engineer by trade
+                              and a creative by design. Dominic is the CEO of
+                              Khord.Co, a software design company focused on
+                              providing businesses with solutions for a variety
+                              of business needs from customer-facing software
+                              such as websites and apps to improving internal
+                              company workflows with custom automations...
+                            </p>
+                            <Who
+                              title="Dominic Summers"
+                              body="Our Technology and Service Design Specialist,
                               Dominic Summers, is a software engineer by trade
                               and a creative by design. Dominic is the CEO of
                               Khord.Co, a software design company focused on
@@ -226,9 +250,74 @@ export const IndexPageTemplate = ({
                               user-friendly and data-driven software. He
                               believes that no matter the industry, businesses
                               have a responsibility to the communities they
-                              operate within and impact through their work.
+                              operate within and impact through their work."
+                            />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="columns box">
+                        <div className="column is-narrow">
+                          <figure className="image is-128x128">
+                            <img
+                              className="is-rounded"
+                              src={alex}
+                              alt="Image"
+                            />
+                          </figure>
+                        </div>
+                        <div className="column">
+                          <div>
+                            <strong>Alexandra Shaw</strong>
+                            <p>
+                            Our Project Manager & Strategy Consultant is a dynamic young professional with a multidisciplinary background. Alex holds a Bachelor’s Degree in Anthropology and Humanities and a Master’s Degree in International Business...
                             </p>
-                          </p>
+                            <Who
+                              title="Alexandra Shaw"
+                              body="Our Project Manager & Strategy Consultant is a dynamic young professional with a multidisciplinary background. Alex holds a Bachelor’s Degree in Anthropology and Humanities and a Master’s Degree in International Business. Alex works on several parts of the business, through project management and strategy consultation. She is also specifically equipped to advise on childhood education and has a passion for social work. She’s lived all of the world teaching in Peru, India and Jamaica. Through her global experiences, she’s especially focused on building a world in which everyone has equal access to opportunities. "
+                            />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="columns box">
+                        <div className="column is-narrow">
+                          <figure className="image is-128x128">
+                            <img
+                              className="is-rounded"
+                              src={leah}
+                              alt="Image"
+                            />
+                          </figure>
+                        </div>
+                        <div className="column">
+                          <div>
+                            <strong>Leah Goldson</strong>
+                            <p>
+                            One of our talented Research Assistants, Leah, is a recent graduate of American University. She holds a Bachelor of Arts in Political Science and hopes to pursue a degree in legal studies in the near future. Leah works with the CorpCare team on defining key metrics which assess companies’ compliance with CSR best practices...
+                            </p>
+                            <Who
+                              title="Leah Goldson"
+                              body="One of our talented Research Assistants, Leah, is a recent graduate of American University. She holds a Bachelor of Arts in Political Science and hopes to pursue a degree in legal studies in the near future. Leah works with the CorpCare team on defining key metrics which assess companies’ compliance with CSR best practices. Leah’s previous work experience has been predominantly in the public sector, having worked with National Integrity Action (NIA), the Embassy of Jamaica, the Office of the Jamaican Prime Minister and a number of other social service organisations. Leah is a Boys’ Town Community Volunteer, a Volunteer for Voluntary Organization for the Upliftment of Children (VOUCH) and a passionate, dedicated Jamaican citizen. "
+                            />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="columns box">
+                        <div className="column is-narrow">
+                          <figure className="image is-128x128">
+                            <img className="is-rounded" src={aki} alt="Image" />
+                          </figure>
+                        </div>
+                        <div className="column">
+                          <div>
+                            <strong>Ahmad Kazi</strong>
+                            <p>
+                            Our virtual and talented Research Assistant, Ahmad “Akee” Kazi, is based in New Orleans. He holds a BA in Business Administration and Management from Loyola University and has done several study abroad programmes including a semester at sea, as a way of nurturing his love for travel and different cultures...
+                            </p>
+                            <Who
+                              title="Ahmad Kazi"
+                              body="Our virtual and talented Research Assistant, Ahmad “Akee” Kazi, is based in New Orleans. He holds a BA in Business Administration and Management from Loyola University and has done several study abroad programmes including a semester at sea, as a way of nurturing his love for travel and different cultures. His work has been primarily focussed on social development through the New Orleans Jazz Museum and most recently in business development as an analyst with The Resource Group. As a Trinidadian who grew up in the U.S., Akee is eager to work with CorpCare on developing CSR compliance metrics and CSR sensitization across the Caribbean.  He has served as an ambassador to the Caribbean Caucus for the One Young World organization and a Volunteer for the Sisterhood of Survivors in Nepal."
+                            />
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -237,7 +326,7 @@ export const IndexPageTemplate = ({
                 <a name="what"></a>
                 <div className="columns">
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
+                    <h3 className="has-text-weight-semibold space is-size-2">
                       {heading}
                     </h3>
                     <p>{description}</p>
@@ -318,7 +407,7 @@ export const IndexPageTemplate = ({
                   are the most successful.
                 </p>
                 <a name="clients"></a>
-                <h1>Our Clients</h1>
+                <h3 className="has-text-weight-semibold is-size-2 space">Our Clients</h3>
                 <p>
                   At CorpCare, we work to understand our clients’ specific
                   challenges and strategize the most effective solutions. Our
@@ -337,7 +426,7 @@ export const IndexPageTemplate = ({
                   social business.
                 </p>
                 <a name="partners"></a>
-                <h1>Our Partners</h1>
+                <h3 className="has-text-weight-semibold is-size-2 space">Our Partners</h3>
                 <div className="columns">
                   <div className="column is-centered">
                     <a href="https://malcolmmavericks.com">
