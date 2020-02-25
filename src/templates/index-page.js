@@ -98,9 +98,10 @@ export const IndexPageTemplate = ({
                         </div>
                         <div className="column">
                           <div>
-                            <strong>Ali Matalon</strong>
+                            <strong>Ali Matalon</strong><br />
+                            Managing Director
                             <p>
-                              Our managing Director, Ali Matalon, holds a
+                              Our Managing Director, Ali Matalon, holds a
                               Masters in Public Administration from Columbia
                               University with expertise in Urban and Social
                               Policy. Her passion for human-centered design and
@@ -113,7 +114,8 @@ export const IndexPageTemplate = ({
                             <Who
                               image={ali}
                               title="Ali Matalon"
-                              body="Our managing Director, Ali Matalon, holds a
+                              jobTitle="Managing Director"
+                              body="Our Managing Director, Ali Matalon, holds a
                                 Masters in Public Administration from Columbia
                                 University with expertise in Urban and Social
                                 Policy. Her passion for human-centered design
@@ -148,13 +150,15 @@ export const IndexPageTemplate = ({
                         </div>
                         <div className="column">
                           <div>
-                            <strong>Jomarie Malcolm</strong>
+                            <strong>Jomarie Malcolm</strong><br />
+                            Communications Director
                             <p>
                             Our Communications Director, Jomarie Malcolm, is both a branding expert with over 10 years of experience, as well as, an attorney-at-law. Jomarie serves as the Founder and CEO of Malcolm Mavericks, a brand strategy and PR firm dedicated to effective communication and authentic branding...
                             </p>
                             <Who
                               image={jomarie}
                               title="Jomarie Malcolm"
+                              jobTitle="Communications Director"
                               body="Our Communications Director, Jomarie Malcolm, is both a branding expert with over 10 years of experience, as well as, an attorney-at-law. Jomarie serves as the Founder and CEO of Malcolm Mavericks, a brand strategy and PR firm dedicated to effective communication and authentic branding. Malcolm Mavericks has partnered with CorpCare to create a seamless experience in executing CSR activities and garnering the appropriate brand equity associated with those activities. Jomarie is a motivational speaker, branding educator and business development mentor. She is a member of the World Economic Forum Global Shapers Kingston Hub, President of Campion College Alumni Association and an active member of her community. Jomarie believes that CSR is a core business priority, in addition to being a tool through which companies communicate their values to staff and the wider communities they serve. "
                             />
                           </div>
@@ -172,7 +176,8 @@ export const IndexPageTemplate = ({
                         </div>
                         <div className="column">
                           <div>
-                            <strong>Kemesha Swaby</strong>
+                            <strong>Kemesha Swaby</strong><br />
+                            Strategy and Monitoring and Evaluation Expert
                             <p>
                             Our Strategy and Monitoring and Evaluation Expert,
                               Kemesha Swaby, holds a MA in Social Policy, with
@@ -187,6 +192,7 @@ export const IndexPageTemplate = ({
                             <Who
                               image={kemesha}
                               title="Kemesha Swaby"
+                              jobTitle="Strategy and Monitoring and Evaluation Expert"
                               body="Our Strategy and Monitoring and Evaluation Expert,
                               Kemesha Swaby, holds a MA in Social Policy, with
                               expertise in Comparative Analysis, Global Policy
@@ -221,7 +227,8 @@ export const IndexPageTemplate = ({
                         </div>
                         <div className="column">
                           <div>
-                            <strong>Dominic Summers</strong>
+                            <strong>Dominic Summers</strong><br />
+                            Technology and Service Design Specialist
                             <p>
                               Our Technology and Service Design Specialist,
                               Dominic Summers, is a software engineer by trade
@@ -270,13 +277,15 @@ export const IndexPageTemplate = ({
                         </div>
                         <div className="column">
                           <div>
-                            <strong>Alexandra Shaw</strong>
+                            <strong>Alexandra Shaw</strong><br />
+                            Project Manager & Strategy Consultant
                             <p>
                             Our Project Manager & Strategy Consultant is a dynamic young professional with a multidisciplinary background. Alex holds a Bachelor’s Degree in Anthropology and Humanities and a Master’s Degree in International Business...
                             </p>
                             <Who
                               image={alex}
                               title="Alexandra Shaw"
+                              jobTitle="Project Manager & Strategy Consultant"
                               body="Our Project Manager & Strategy Consultant is a dynamic young professional with a multidisciplinary background. Alex holds a Bachelor’s Degree in Anthropology and Humanities and a Master’s Degree in International Business. Alex works on several parts of the business, through project management and strategy consultation. She is also specifically equipped to advise on childhood education and has a passion for social work. She’s lived all of the world teaching in Peru, India and Jamaica. Through her global experiences, she’s especially focused on building a world in which everyone has equal access to opportunities. "
                             />
                           </div>
@@ -294,13 +303,15 @@ export const IndexPageTemplate = ({
                         </div>
                         <div className="column">
                           <div>
-                            <strong>Leah Goldson</strong>
+                            <strong>Leah Goldson</strong><br />
+                            Research Assistant
                             <p>
                             One of our talented Research Assistants, Leah, is a recent graduate of American University. She holds a Bachelor of Arts in Political Science and hopes to pursue a degree in legal studies in the near future. Leah works with the CorpCare team on defining key metrics which assess companies’ compliance with CSR best practices...
                             </p>
                             <Who
                               image={leah}
                               title="Leah Goldson"
+                              jobTitle="Research Assistant"
                               body="One of our talented Research Assistants, Leah, is a recent graduate of American University. She holds a Bachelor of Arts in Political Science and hopes to pursue a degree in legal studies in the near future. Leah works with the CorpCare team on defining key metrics which assess companies’ compliance with CSR best practices. Leah’s previous work experience has been predominantly in the public sector, having worked with National Integrity Action (NIA), the Embassy of Jamaica, the Office of the Jamaican Prime Minister and a number of other social service organisations. Leah is a Boys’ Town Community Volunteer, a Volunteer for Voluntary Organization for the Upliftment of Children (VOUCH) and a passionate, dedicated Jamaican citizen. "
                             />
                           </div>
@@ -314,13 +325,15 @@ export const IndexPageTemplate = ({
                         </div>
                         <div className="column">
                           <div>
-                            <strong>Ahmad Kazi</strong>
+                            <strong>Ahmad Kazi</strong><br />
+                            Research Assistant
                             <p>
                             Our virtual and talented Research Assistant, Ahmad “Akee” Kazi, is based in New Orleans. He holds a BA in Business Administration and Management from Loyola University and has done several study abroad programmes including a semester at sea, as a way of nurturing his love for travel and different cultures...
                             </p>
                             <Who
                               image={aki}
                               title="Ahmad Kazi"
+                              jobTitle="Research Assistant"
                               body="Our virtual and talented Research Assistant, Ahmad “Akee” Kazi, is based in New Orleans. He holds a BA in Business Administration and Management from Loyola University and has done several study abroad programmes including a semester at sea, as a way of nurturing his love for travel and different cultures. His work has been primarily focussed on social development through the New Orleans Jazz Museum and most recently in business development as an analyst with The Resource Group. As a Trinidadian who grew up in the U.S., Akee is eager to work with CorpCare on developing CSR compliance metrics and CSR sensitization across the Caribbean.  He has served as an ambassador to the Caribbean Caucus for the One Young World organization and a Volunteer for the Sisterhood of Survivors in Nepal."
                             />
                           </div>
