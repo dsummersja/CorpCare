@@ -15,7 +15,7 @@ export default class Who extends Component {
           >
             Read More
           </button>
-          <div className={this.state.active ? 'modal is-active' : 'modal'}>
+          <div className={this.state.active ? 'modal is-active is-clipped' : 'modal'}>
             <div
               className="modal-background"
               onClick={() => this.setState({ active: !this.state.active })}
@@ -26,7 +26,7 @@ export default class Who extends Component {
                   <figure className="image is-128x128 column is-narrow">
                     <img className="is-rounded" src={this.props.image} alt="Image" />
                   </figure>
-                  <h1 className="modal-card-title column">{this.props.title}</h1>
+                  <h1 className="column">{this.props.title}</h1>
                 </header>
                 <section className="modal-card-body">{this.props.body}</section>
               </div>
