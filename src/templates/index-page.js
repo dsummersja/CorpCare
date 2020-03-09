@@ -17,7 +17,7 @@ import jomarie from '../img/jomarie.jpg'
 import kemesha from '../img/kemesha.jpg'
 import dominic from '../img/dominic.jpg'
 import aki from '../img/aki.png'
-import leah from '../img/leah.png'
+import leah from '../img/leah.jpg'
 import alex from '../img/alex.jpg'
 
 export const IndexPageTemplate = ({
@@ -153,13 +153,13 @@ export const IndexPageTemplate = ({
                             <strong>Jomarie Malcolm</strong><br />
                             Communications Director
                             <p>
-                            Our Communications Director, Jomarie Malcolm, is both a branding expert with over 10 years of experience, as well as, an attorney-at-law. Jomarie serves as the Founder and CEO of Malcolm Mavericks, a brand strategy and PR firm dedicated to effective communication and authentic branding...
+                            Our Communications Director, Jomarie Malcolm, is both a branding expert, with over 10 years of experience, as well as an attorney-at-law. Jomarie serves as the Founder and CEO of Malcolm Mavericks, a brand strategy and PR firm dedicated to effective communication and authentic branding...
                             </p>
                             <Who
                               image={jomarie}
                               title="Jomarie Malcolm"
                               jobTitle="Communications Director"
-                              body="Our Communications Director, Jomarie Malcolm, is both a branding expert with over 10 years of experience, as well as, an attorney-at-law. Jomarie serves as the Founder and CEO of Malcolm Mavericks, a brand strategy and PR firm dedicated to effective communication and authentic branding. Malcolm Mavericks has partnered with CorpCare to create a seamless experience in executing CSR activities and garnering the appropriate brand equity associated with those activities. Jomarie is a motivational speaker, branding educator and business development mentor. She is a member of the World Economic Forum Global Shapers Kingston Hub, President of Campion College Alumni Association and an active member of her community. Jomarie believes that CSR is a core business priority, in addition to being a tool through which companies communicate their values to staff and the wider communities they serve. "
+                              body="Our Communications Director, Jomarie Malcolm, is both a branding expert, with over 10 years of experience, as well as an attorney-at-law. Jomarie serves as the Founder and CEO of Malcolm Mavericks, a brand strategy and PR firm dedicated to effective communication and authentic branding. Malcolm Mavericks has partnered with CorpCare to create a seamless experience in executing CSR activities and garnering the appropriate brand equity associated with those activities. Jomarie is a motivational speaker, branding educator and business development mentor. She is a member of the World Economic Forum Global Shapers Kingston Hub, President of Campion College Alumni Association and an active member of her community. Jomarie believes that CSR is a core business priority in addition to being a tool through which companies communicate their values to staff and the wider communities they serve. "
                             />
                           </div>
                         </div>
@@ -180,7 +180,7 @@ export const IndexPageTemplate = ({
                             Strategy and Monitoring and Evaluation Expert
                             <p>
                             Our Strategy and Monitoring and Evaluation Expert,
-                              Kemesha Swaby, holds a MA in Social Policy, with
+                              Kemesha Swaby, holds a MBA in Social Policy, with
                               expertise in Comparative Analysis, Global Policy
                               and Impact Assessment. Kemesha serves as a
                               Lecturer of International Relations at the
@@ -286,7 +286,7 @@ export const IndexPageTemplate = ({
                               image={alex}
                               title="Alexandra Shaw"
                               jobTitle="Project Manager & Strategy Consultant"
-                              body="Our Project Manager & Strategy Consultant is a dynamic young professional with a multidisciplinary background. Alex holds a Bachelor’s Degree in Anthropology and Humanities and a Master’s Degree in International Business. Alex works on several parts of the business, through project management and strategy consultation. She is also specifically equipped to advise on childhood education and has a passion for social work. She’s lived all of the world teaching in Peru, India and Jamaica. Through her global experiences, she’s especially focused on building a world in which everyone has equal access to opportunities. "
+                              body="Our Project Manager & Strategy Consultant is a dynamic young professional with a multidisciplinary background. Alex holds a Bachelor’s Degree in Anthropology and Humanities and a Master’s Degree in International Business. Alex works on several parts of the business, through project management and strategy consultation. She is also specifically equipped to advise on childhood education and has a passion for social work. She’s lived all over the world teaching in Peru, India and Jamaica. Through her global experiences, she’s especially focused on building a world in which everyone has equal access to opportunities. "
                             />
                           </div>
                         </div>
@@ -350,7 +350,7 @@ export const IndexPageTemplate = ({
                     </h3>
                     <p>{description}</p>
                     <p>
-                      The CorpCare CSR model follows the key tenants of a Triple
+                      The CorpCare CSR model follows the key tenets of a Triple
                       Bottom Line (TBL or 3BL) business or accounting framework.
                       In fact, the TBL can be used to better understand a
                       company’s commitment to CSR activities.{' '}
@@ -386,7 +386,7 @@ export const IndexPageTemplate = ({
                     <h4>The Planet</h4>
                     <p>
                       A measure of success that analyses environmental and
-                      community impact overtime.
+                      community impact over time.
                     </p>
                   </div>
                 </div>
@@ -466,9 +466,9 @@ export const IndexPageTemplate = ({
                   The work we do at CorpCare is founded on strong partnerships
                   and the belief that when we work together, we can deliver the
                   most innovative, creative and impactful services. That’s why
-                  we have teamed up with Khord.Co a software and product
-                  development company and Malcolm Mavericks a communications and
-                  branding firm to deliver the best results possible for our
+                  we have teamed up with Khord.Co, a software and product
+                  development company, and Malcolm Mavericks, a communications and
+                  branding firm, to deliver the best results possible for our
                   clients. Through these partnerships we’re fully equipped to
                   deliver: High level CSR strategies, Project Management
                   expertise, PR and Communications tools to increase brand
@@ -485,7 +485,7 @@ export const IndexPageTemplate = ({
                   private sector organisations in Jamaica better understand
                   their role in creating safe and discrimination-free work
                   environments. We know that our work is dependent on the work
-                  of others, that our communities need us to focus less on
+                  of others; that our communities need us to focus less on
                   competition and more on connection in order to create a more
                   just and equitable world.
                 </p>
