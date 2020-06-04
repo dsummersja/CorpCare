@@ -5,6 +5,35 @@ const ResourcePage = () => (
   <Layout>
     <section className="section">
       <div className="container">
+        <h2 className="statement">
+        <strong>To the members of the CorpCare community: </strong>
+        <br /><br />
+        CorpCare was founded on the belief that every company is responsible for the social impact they have on the communities in which they operate, the employees who work for them and the customers they serve. 
+        <br /><br />
+        Many companies and the capitalist systems in which they operate, have long upheld racist, sexist, homophobic, transphobic, ableist, queer-phobic and a plethora of prejudiced systems. 
+        <br /><br />
+        <strong>It has long been time to divest from injustice.</strong>
+        <br /><br />
+        It has long been time to defund the systematic marginalization of groups of people because of the colour of their skin, because of the ways in which they worship, because of who they love, because of who they are. 
+        <br /><br />
+        <strong>In this time, businesses must refuse to operate as “usual”.</strong> 
+        <br /><br />
+        Globalization has created a world in which our experiences are more easily shared, communicated and seen than ever before. As our world moves through the devastating effects of a pandemic, we are reminded again of the disproportionate risk, pain and death experienced by communities of colour, poor communities, communities who are differently abled, communities whose seats at the table are too few if at all existent. 
+        <br /><br />
+        The moments of today will be shared as our human history. The moments of today demand us to affirm. <strong>BLACK LIVES MATTER.</strong> 
+        <br /><br />
+        CorpCare operates in a predominantly Black nation, in a region of immigrants. Our region is one whose evolution was radically upended by the violence of colonialism. CorpCare’s team is predominantly Black and predominantly Female. 
+        <br /><br />
+        <strong>CorpCare is making this statement too late.</strong> 
+        <br /><br />
+        Because we are overwhelmed by the news emanating from the U.S., news of violent acts of prejudice. Because we believe the issues of racism, classism and colourism in Jamaica are inextricably linked. Because we refuse to speak without taking meaningful action, we have put together a list of resources for our family of companies, individuals and communities to use as a guide for donation and volunteering opportunities within Jamaica and abroad. 
+        <br /><br />
+        We hope this resource is useful. We want it to evolve. We are sharing resources we have found to be reputable, highlighting the work done by several organisations, and amplifying their voices so they get more support; your support. We are also listening and remain open to learning and correction, and we ask you to help hold us accountable. We want to engage in meaningful dialogue with our community. We invite your additions to this resource. We want this resource to be OUR community’s resource. 
+        <br /><br />
+        In solidarity and with love,<br />
+        The CorpCare Team
+        </h2>
+        <br /><br />
         <h1 className="title">Resources</h1>
         <h2>For donating to and volunteering with human rights and justice organisations who advocate for equal rights, access to opportunity and the betterment of our societies. Please note that this page is a “living” resource and will constantly be updated. </h2>
        <br />
