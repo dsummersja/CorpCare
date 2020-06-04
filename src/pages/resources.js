@@ -20,7 +20,7 @@ const ResourcePage = () => (
               <br />
               <li>
                 <h1>Jamaicans For Justice (JFJ)</h1> 
-                CorpCare works closely with JFJ and recommends to its family of companies and its wider community to become members of the JFJ contributing. For those interested in volunteering with JFJ: <a href="https://www.jamaicansforjustice.org/volunteer/">Click Here</a>. For those interested in making their advocacy a full-time job, JFJ provides information about its job opportunities <a href="https://www.jamaicansforjustice.org/current-openings/">here</a>. To donate, contact the local JFJ office. 
+                CorpCare works closely with JFJ and recommends to its family of companies and its wider community to become members of the JFJ contributing. For those interested in volunteering with JFJ: <a href="https://www.jamaicansforjustice.org/volunteer/">Click Here</a>. For those interested in making their advocacy a full-time job, JFJ provides information about its job opportunities <a href="https://www.jamaicansforjustice.org/current-openings/">here</a>. To donate, contact the local JFJ office or click <a href="https://www.jamaicansforjustice.org/donate/">here.</a> 
               </li>
               <br />
               <li>
