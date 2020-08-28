@@ -10,7 +10,7 @@ featuredimage: /img/MiaSquare (1).jpg
 tags:
   - Internship
 ---
-![Mia Minott](/img/MiaSquare (1).jpg)
+![Mia Minott](/img/MiaSquare (1).jpg "Mia")
 
 My name is Mia Minott, a high school student currently studying in Kingston and I had the privilege of being the first intern for CorpCare Social Impact Consultants Ltd. The covid-19 pandemic has brought about unprecedented times for all of us. However, not many organisations are actively ensuring that the most vulnerable to crises like these are taken care of and protected. This is one of the many reasons I was drawn to CorpCare. Working with CorpCare seemed like the perfect opportunity to support my studies in entrepreneurship and business, highlighting the essential role of Corporate Social Responsibility.
 
