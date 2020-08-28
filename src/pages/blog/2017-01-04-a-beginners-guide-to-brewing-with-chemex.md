@@ -1,29 +1,23 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+title: Reflections from CorpCare's Inaugural Intern
+date: 2020-08-28T17:00:00.000Z
+description: >-
+  CorpCare is truly like one big family and I can assure you that they practice
+  what they preach. I can't think of one reason why other young 
+featuredpost: true
+featuredimage: /img/MiaSquare (1).jpg
 tags:
-  - brewing
-  - chemex
+  - Internship
 ---
-![chemex](/img/chemex.jpg)
+![Mia Minott](/img/MiaSquare (1).jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+My name is Mia Minott, a high school student currently studying in Kingston and I had the privilege of being the first intern for CorpCare Social Impact Consultants Ltd. The covid-19 pandemic has brought about unprecedented times for all of us. However, not many organisations are actively ensuring that the most vulnerable to crises like these are taken care of and protected. This is one of the many reasons I was drawn to CorpCare. Working with CorpCare seemed like the perfect opportunity to support my studies in entrepreneurship and business, highlighting the essential role of Corporate Social Responsibility.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+At first, the thought of being thrown into a relatively new field in business was a bit daunting but Ali and the CorpCare team made me feel very welcome. I really appreciated the fact that given my lack of experience particularly with the topics at-hand, they always embraced comments and questions without the slightest judgement. When I started the internship, I didn’t have the depth of understanding about CSR that other members on the team had, but they saw the interest I had in the field and provided an online CSR certification course for me to do. I am incredibly thankful as it not only increased my confidence when assisting the team but also aided in developing my interest further. With the understanding gained from the course, I was tasked with helping to design the client engagement procedure for CorpCare. Given how fundamental that process is, it demonstrated the trust in my capabilities from the drive-radiating leadership of Ali Matalon. This made me better able to ensure that I was doing everything I could to keep the team and myself on track with our schedule and tasks. The democratic-style leadership of the team forged a very nurturing environment for all who put in genuine effort in addition to their own faith in the business concept. The act of decision making is like an open stage where I made suggestions, gave my “outsider” perspective and got to listen to the honest ideas of the team members involved.
 
-## The little secrets of Chemex brewing
+Being an IB diploma candidate, I am required to write a 4000 word essay and while doing the course I even changed my essay topic to researching the impacts of CSR in top global companies. I also used the knowledge gained from the course and the internship experience as inspiration for my own community projects promoting sustainability and a green economy. This is one of the reasons that I will definitely continue working alongside the CorpCare team throughout my senior academic year and possibly in the future.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Ultimately, it would be extremely useful to still collect research which can be used for both my essay as well as for CorpCare so I will switch to being part-time. Although I have to excel in my personal academic life this year, I believe that the flexibility that CorpCare offers me as an intern from here on can be tremendously beneficial to me and hopefully the team as well. The reason for this is because Corpcare offers something truly original and necessary for Jamaica, specifically consumers of private sector companies (essentially everyone directly or indirectly). No matter the length of time I was fully able to be involved and assist the team, I know that I was a part of something meaningful and that has so much potential to be one of the driving forces of systematic change in Jamaica.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+In conclusion, I have gained more knowledge than I ever imagined in the short span of a month from working with the CorpCare team and I met some amazing people in the process. I wish nothing but the best for them and will hopefully get the chance to work with other interns as well so that operations can run as smoothly as possible for the team. CorpCare truly is like one big family and I can assure you that they practice what they preach. I can’t think of one reason why other young leaders wouldn’t want to be a part of this growing business. Thank you to the entire CorpCare team for having me as your inaugural intern.
