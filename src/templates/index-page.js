@@ -317,28 +317,6 @@ export const IndexPageTemplate = ({
                           </div>
                         </div>
                       </div>
-                      <div className="columns box">
-                        <div className="column is-narrow">
-                          <figure className="image is-128x128">
-                            <img className="is-rounded" src={aki} alt="Image" />
-                          </figure>
-                        </div>
-                        <div className="column">
-                          <div>
-                            <strong>Ahmad Kazi</strong><br />
-                            Research Assistant
-                            <p>
-                            Our virtual and talented Research Assistant, Ahmad “Akee” Kazi, is based in New Orleans. He holds a BA in Business Administration and Management from Loyola University and has done several study abroad programmes including a semester at sea, as a way of nurturing his love for travel and different cultures...
-                            </p>
-                            <Who
-                              image={aki}
-                              title="Ahmad Kazi"
-                              jobTitle="Research Assistant"
-                              body="Our virtual and talented Research Assistant, Ahmad “Akee” Kazi, is based in New Orleans. He holds a BA in Business Administration and Management from Loyola University and has done several study abroad programmes including a semester at sea, as a way of nurturing his love for travel and different cultures. His work has been primarily focussed on social development through the New Orleans Jazz Museum and most recently in business development as an analyst with The Resource Group. As a Trinidadian who grew up in the U.S., Akee is eager to work with CorpCare on developing CSR compliance metrics and CSR sensitization across the Caribbean.  He has served as an ambassador to the Caribbean Caucus for the One Young World organization and a Volunteer for the Sisterhood of Survivors in Nepal."
-                            />
-                          </div>
-                        </div>
-                      </div>
                     </div>
                   </div>
                 </div>
