@@ -3,14 +3,13 @@ templateKey: blog-post
 title: Reflections from CorpCare's Inaugural Intern
 date: 2020-08-28T17:02:46.823Z
 description: >-
-  CorpCare is truly like one big family and I can assure you that they practice
-  what they preach. I can't think of one reason why other young 
+  CorpCare is truly like one big family and I can assure you that they practice what they preach. I can't think of one reason why other young leaders wouldn't want to be a part of this growing business.
 featuredpost: true
-featuredimage: /img/MiaSquare (1).jpg
+featuredimage: /img/mia.png
 tags:
   - Internship
 ---
-![Mia Minott](/img/MiaSquare (1).jpg "Mia")
+![Mia Minott](/img/mia.png "Mia")
 
 My name is Mia Minott, a high school student currently studying in Kingston and I had the privilege of being the first intern for CorpCare Social Impact Consultants Ltd. The covid-19 pandemic has brought about unprecedented times for all of us. However, not many organisations are actively ensuring that the most vulnerable to crises like these are taken care of and protected. This is one of the many reasons I was drawn to CorpCare. Working with CorpCare seemed like the perfect opportunity to support my studies in entrepreneurship and business, highlighting the essential role of Corporate Social Responsibility.
 
