@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Reflections from CorpCare's Inaugural Intern
 date: 2020-08-28T17:02:46.823Z
 description: >-
-  CorpCare is truly like one big family and I can assure you that they practice what they preach. I can't think of one reason why other young leaders wouldn't want to be a part of this growing business.
+  "CorpCare is truly like one big family and I can assure you that they practice what they preach. I can't think of one reason why other young leaders wouldn't want to be a part of this growing business."
 featuredpost: true
 featuredimage: /img/mia.png
 tags:
