@@ -59,7 +59,7 @@ Despite the progress still to be made, globally we have seen a 2% improvement fr
 
 Thank you for investing your time to learn about equal pay. We would love to continue this conversation with you and your business, so we can work together to help you better serve your business and your community.
 
-Visit our website or email us atassist@corpcareja.comto learn more about how your organisation can do better, by doing good.
+Visit our website or email us at assist@corpcareja.com to learn more about how your organisation can do better, by doing good.
 
 # Resources:
 
