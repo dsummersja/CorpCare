@@ -4,8 +4,8 @@ title: CorpCare Holiday Letter & Giving Guide
 date: 2020-12-11T15:41:51.071Z
 description: |+
 
-featuredpost: false
-featuredimage: /img/give_back_1170502024-1080x627.jpg
+featuredpost: true
+featuredimage: /img/IMG_6836.jpg
 tags:
   - happyholidays
   - ''
