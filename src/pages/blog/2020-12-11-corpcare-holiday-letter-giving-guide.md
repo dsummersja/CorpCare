@@ -67,6 +67,19 @@ Information submitted to CorpCare by their team
 
 \-------------------------------------------------------------------------------------------------------------------------------
 
+### Sir John Golding Rehabilitation Centre Christmas Gift Drive 
+
+Hosted by MDLink \
+In partnership with NCB Foundation 
+
+![](/img/IMG_6837.jpg)
+
+![](/img/IMG_6836.jpg)
+
+Information submitted to CorpCare by their team
+
+\-------------------------------------------------------------------------------------------------------------------------------
+
 ### The Montego Bay Community Home for Girls
 
 “Melody House was established in 1979 and is a private, nonprofit organization that provides housing to abandoned and abused girls outside Montego Bay, Jamaica. The home receives some funding from the government of Jamaica, however, it is mostly supported by charitable donations.The facility sits on several acres of land and can cater up to 20 girls at any given time. With the help of the small staff, girls, and volunteers, gardens of fruits and vegetables have been planted. Together, the girls work as a team to can mangoes for the home as well as help raise and sell chickens and eggs.”
