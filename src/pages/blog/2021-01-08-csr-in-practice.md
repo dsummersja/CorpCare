@@ -71,4 +71,4 @@ Kenya has a Masters of Science in Accountancy from Simon Business School and a B
 
 When she is not working, Kenya is most likely spinning, walking her dog, spending time with friends and family, or researching socially responsible accounting theories, usually while listening to music or podcasts with a cup of coffee close by. Passionate about sustainability, Kenya loves learning about new ways to incorporate conscious practices into her daily routines.
 
-Follow Kenya at **@kenya_des** on Twitter to learn more about her interest in social advocacy and financial policies.
+Follow Kenya at[ **@kenya_des**](https://twitter.com/kenya_des) on Twitter to learn more about her interest in social advocacy and financial policies.
